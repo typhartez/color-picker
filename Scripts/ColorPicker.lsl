@@ -1,8 +1,7 @@
 // ColorPicker 1.0 (2018/01/28) by Typhaine Artez
 //
-// License AGPL (must stay opensource, you can't use this script or the object it was made for in a
-// closed source project), and as added restriction: no commercial usage, you can't sell this script or
-// the object is was made for.
+// Provided under Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International license.
+// Please be sure you read and adhere to the terms of this license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 //
 //  Made with love, wanting the optimal color picker, one mesh object, optimized script, self contained.
 //  Thanks to Cheetos Brat for the face params work on the mesh object
